@@ -24,3 +24,18 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * Seasons - Winter, Spring, Summer, Autumn
 * Holiday - Holiday/No holiday
 * Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+# Approach and Presentation.
+
+Final Notebook- https://github.com/satyam-jyoti-sankar/Bike-Sharing-Demand-Prediction-/blob/main/Bike_Sharing_Demand_Prediction_Capstone_Project.ipynb
+
+Presentation -  https://github.com/satyam-jyoti-sankar/Bike-Sharing-Demand-Prediction-/blob/main/bike%20sharing%20demand%20prediction.pptx
+
+# Important Works/ Conclusion
+
+Developed a regression model using algorithms such as Linear Regression, Random Forest and
+GRADIENT BOOSTED REGRESSOR to predict the hourly demand of bikes and reduced the public waiting time .
+
+Used different visual techniques to understood the impact of features such as time of the day, weather condition, holidays and engineered important features for the model.
+
+In feature selection combine highly corelated features and makes them a single feature. Experimented with hyperparameter tuning techniques in Gradient boosting and Random forest achieved highest R2 score of 89% in both.
+
